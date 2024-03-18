@@ -2,8 +2,8 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- A simple utility to merge two images using RGB parameters
+	
 
 ## Installation
 
